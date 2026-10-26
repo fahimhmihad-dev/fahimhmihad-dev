@@ -43,12 +43,15 @@ A web tool that calculates prorated refunds from amount paid, purchase/refund da
 A live giveaway draw page built for campaign engagement.
 🔗 https://giveway.getyourservicebd.store
 
+### 7. Academic Result Management System — UIA
+I taught English and Mathematics at a madrasa for one year. The school had no system for managing academic results, so I built one for them — a web-based result management system that replaced the manual, paper-based process.
+🔗 https://uia.getyourservicebd.store
+
 **More live projects:**
 - https://getyourservicebd.store — Tracked Inboxes sign-in web app
 - https://menifto.cyou — Code Finder web app
 - https://gysbot.lovable.app — GYS Bot assistant web app
 - https://fashion-gem-haven.lovable.app — Fashion e-commerce website
-- https://uia.getyourservicebd.store
 - https://refund-gys.lovable.app
 
 ---
