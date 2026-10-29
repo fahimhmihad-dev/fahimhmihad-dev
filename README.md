@@ -46,6 +46,9 @@ A live giveaway draw page built for campaign engagement.
 ### 7. Academic Result Management System — UIA
 I taught English and Mathematics at a madrasa for one year. The school had no system for managing academic results, so I built one for them — a web-based result management system that replaced the manual, paper-based process.
 🔗 https://uia.getyourservicebd.store
+### 8. Get Your Service — Pre-Order System
+A campaign-based pre-order website for digital products — customers reserve a slot in advance, the campaign closes when its goal is reached, products are prepared, and delivery is sent to the customer's WhatsApp number.
+🔗 https://pre-order.menifto.cyou/ · Code: https://github.com/fahimhmihad-dev/pre-order-system
 
 **More live projects:**
 - https://getyourservicebd.store — Tracked Inboxes sign-in web app
